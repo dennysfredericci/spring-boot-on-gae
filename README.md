@@ -1,4 +1,4 @@
-# Spring Boot On Gae
+# Spring Boot On Google App Engine
 
 
 [![Build Status](https://travis-ci.org/dennysfredericci/spring-boot-on-gae.svg?branch=master)](https://travis-ci.org/dennysfredericci/spring-boot-on-gae)
