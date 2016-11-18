@@ -74,7 +74,6 @@
 				<version>2.0.9.133.v20161104</version>
 			</plugin>
 		</plugins>
-	</plugins>
 	</build>
 
 </project>
