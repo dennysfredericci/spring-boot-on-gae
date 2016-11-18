@@ -12,3 +12,4 @@ This is a simple example of Spring Boot Application to deploy on Google App Engi
 	
 	
 
+http://spring-boot-on-gae.appspot.com
