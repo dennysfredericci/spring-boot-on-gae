@@ -68,7 +68,13 @@
 					</execution>
 				</executions>
 			</plugin>
+			<plugin>
+				<groupId>com.google.appengine</groupId>
+				<artifactId>gcloud-maven-plugin</artifactId>
+				<version>2.0.9.133.v20161104</version>
+			</plugin>
 		</plugins>
+	</plugins>
 	</build>
 
 </project>
