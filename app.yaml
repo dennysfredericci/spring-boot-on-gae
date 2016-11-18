@@ -1,7 +1,0 @@
-service: spring-boot-on-gae
-runtime: java
-env: flex
-threadsafe: true
-
-runtime_config:
-   jdk: openjdk8
